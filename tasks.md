@@ -15,6 +15,7 @@
     `<button id="closeBtn">OK</button>`  
   `</div>`  
 `</div>`  
+
 `/* Стили для модального окна */`  
 .modal {  
   display: none; /* скрыть окно по умолчанию */  
@@ -28,7 +29,7 @@
   background-color: rgba(0,0,0,0.5); /* затемнить фон */  
 }  
 
-/* Стили для содержимого модального окна */  
+`/* Стили для содержимого модального окна */`  
 .modal-content {  
   background-color: #fefefe;  
   margin: 15% auto;  
@@ -38,7 +39,7 @@
   text-align: center;  
 }  
 
-/* Стили для кнопки закрытия */  
+`/* Стили для кнопки закрытия */`  
 #closeBtn {  
   background-color: #4CAF50;  
   color: white;  
