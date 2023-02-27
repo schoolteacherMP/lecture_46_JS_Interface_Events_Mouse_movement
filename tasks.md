@@ -15,39 +15,39 @@
     `<button id="closeBtn">OK</button>`  
   `</div>`  
 `</div>`  
-`/* Стили для модального окна */
-.modal {
-  display: none; /* скрыть окно по умолчанию */
-  position: fixed; /* фиксированная позиция на экране */
-  z-index: 1; /* установить поверх других элементов */
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  overflow: auto;
-  background-color: rgba(0,0,0,0.5); /* затемнить фон */
-}
+`/* Стили для модального окна */`  
+.modal {  
+  display: none; /* скрыть окно по умолчанию */  
+  position: fixed; /* фиксированная позиция на экране */  
+  z-index: 1; /* установить поверх других элементов */  
+  left: 0;  
+  top: 0;  
+  width: 100%;  
+  height: 100%;  
+  overflow: auto;  
+  background-color: rgba(0,0,0,0.5); /* затемнить фон */  
+}  
 
-/* Стили для содержимого модального окна */
-.modal-content {
-  background-color: #fefefe;
-  margin: 15% auto;
-  padding: 20px;
-  border: 1px solid #888;
-  width: 80%;
-  text-align: center;
-}
+/* Стили для содержимого модального окна */  
+.modal-content {  
+  background-color: #fefefe;  
+  margin: 15% auto;  
+  padding: 20px;  
+  border: 1px solid #888;  
+  width: 80%;  
+  text-align: center;  
+}  
 
-/* Стили для кнопки закрытия */
-#closeBtn {
-  background-color: #4CAF50;
-  color: white;
-  padding: 10px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-`  
+/* Стили для кнопки закрытия */  
+#closeBtn {  
+  background-color: #4CAF50;  
+  color: white;  
+  padding: 10px;  
+  border: none;  
+  border-radius: 5px;  
+  cursor: pointer;  
+}  
+
 ## Задача 3.   
 ### 
 
