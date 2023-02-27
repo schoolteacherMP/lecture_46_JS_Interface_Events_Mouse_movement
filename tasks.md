@@ -15,7 +15,7 @@
     `<button id="closeBtn">OK</button>`  
   `</div>`  
 `</div>`  
-/* Стили для модального окна */
+`/* Стили для модального окна */
 .modal {
   display: none; /* скрыть окно по умолчанию */
   position: fixed; /* фиксированная позиция на экране */
@@ -47,7 +47,7 @@
   border-radius: 5px;
   cursor: pointer;
 }
-
+`  
 ## Задача 3.   
 ### 
 
