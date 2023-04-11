@@ -110,5 +110,3 @@ PS:img  взять произвольное. Почитать про CSS сво�
 ![image](https://user-images.githubusercontent.com/113675674/231223353-b2a35406-ec07-49d2-b844-ad1d726b3c23.png)  
 ![image](https://user-images.githubusercontent.com/113675674/231223371-dc679d46-43fd-4e68-84b5-e98c9bb52165.png)  
 ![image](https://user-images.githubusercontent.com/113675674/231223392-201e2032-d35d-4c7d-b649-48ae7f77f3b1.png)  
-
-## Задача 7.   
