@@ -1,5 +1,6 @@
 # lecture_46_JS_Interface_Events_Mouse_movement  
 
+
 #  [Задачи ](https://github.com/schoolteacherMP/lecture_46_JS_Interface_Events_Mouse_movement/blob/main/tasks.md)   
 
 -  Мы рассмотрели события `mouseover`, `mouseout`, `mousemove`, `mouseenter` и `mouseleave`.  
