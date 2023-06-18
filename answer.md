@@ -14,7 +14,7 @@
 
 ## Задача 3.1     
 ### event.target имеет значение  
-![image](https://github.com/schoolteacherMP/lecture_46_JS_Interface_Events_Mouse_movement/assets/113675674/e45c7b6f-dac5-4892-bc49-a346a1867b12)  
+![image](https://github.com/schoolteacherMP/lecture_46_JS_Interface_Events_Mouse_movement/assets/113675674/c2fea509-d16a-4c17-910a-8777937c3f29)  
 
 
 ## Задача 4.   
