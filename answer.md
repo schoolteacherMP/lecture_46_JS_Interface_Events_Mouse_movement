@@ -12,6 +12,11 @@
 
 ![image](https://user-images.githubusercontent.com/113675674/221579257-b48de727-a880-4c64-ab01-fdc7ffb00279.png)  
 
+## Задача 3.1     
+### event.target имеет значение  
+![image](https://github.com/schoolteacherMP/lecture_46_JS_Interface_Events_Mouse_movement/assets/113675674/e45c7b6f-dac5-4892-bc49-a346a1867b12)  
+
+
 ## Задача 4.   
 ### Создание страницы с формой и отображение введенного текста    
 
