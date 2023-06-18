@@ -84,25 +84,25 @@
 Примечание:  
 Убедитесь, что блоки не имеют отступов между собой, чтобы предотвратить нежелательное изменение цвета при переходе курсора между блоками.
 HTML/CSS:    
-`<style>`
-     `.box {`
-      `width: 100%;`
-      `height: 100px;`
-      `border: 1px solid black;`
-    `}`
-    `#box1 {`
-      `background-color: red;`
-    `}`
-    `#box2 {`
-      `background-color: blue;`
-    `}`
-    `#box3 {`
-      `background-color: green;`
-    `}`
-  `</style>`
-  `<div class="box" id="box1"></div>`
-  `<div class="box" id="box2"></div>`
-  `<div class="box" id="box3"></div>`
+`<style>`  
+     `.box {`  
+      `width: 100%;`  
+      `height: 100px;`  
+      `border: 1px solid black;`  
+    `}`  
+    `#box1 {`  
+      `background-color: red;`  
+    `}`  
+    `#box2 {`  
+      `background-color: blue;`  
+    `}`  
+    `#box3 {`  
+      `background-color: green;`   
+    `}`  
+  `</style>`  
+  `<div class="box" id="box1"></div>`  
+  `<div class="box" id="box2"></div>`  
+  `<div class="box" id="box3"></div>`  
 
 ## Задача 4.   
 ### Создание страницы с формой и отображение введенного текста   
