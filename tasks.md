@@ -90,7 +90,7 @@ HTML/CSS:
      `.box {`  
       `width: 80%;`  
       `height: 100px;`  
-      `border: 1px solid black;`
+      `border: 1px solid black;`  
       `margin: 0 auto;`  
     `}`  
     `#box1 {`  
